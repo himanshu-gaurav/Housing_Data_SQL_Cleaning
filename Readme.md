@@ -94,7 +94,7 @@ Two methods are provided for importing data:
 
 ## **File Structure**
 - **SQL Script:** Contains all the queries for cleaning and transforming the data.
-- **Dataset:** Original Nashville Housing dataset in CSV format.
+- **Dataset:** Original Housing dataset in CSV format.
 - **Documentation:**
   - This README file provides an overview of the project.
 
